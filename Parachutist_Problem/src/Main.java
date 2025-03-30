@@ -22,10 +22,8 @@ public class Main {
             double vt = fonk(g, c, m, i);
             System.out.println(i + "\t\t" + String.format("%.6f", vt));
         }
-
         sc.close();
     }
-
     private static double fonk(double g, double c, double m, int t) {
         double mgc = (m * g) / c;
         double e = Math.E;
