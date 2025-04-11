@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FindRoot/FindRoot.iml" filepath="$PROJECT_DIR$/FindRoot/FindRoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaclaurinSeriesCosx/MaclaurinSeriesCosx.iml" filepath="$PROJECT_DIR$/MaclaurinSeriesCosx/MaclaurinSeriesCosx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumericalMethodsForEngineers.iml" filepath="$PROJECT_DIR$/NumericalMethodsForEngineers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parachutist_Problem/Parachutist_Problem.iml" filepath="$PROJECT_DIR$/Parachutist_Problem/Parachutist_Problem.iml" />
+    </modules>
+  </component>
+</project>
