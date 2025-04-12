@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Methods/FindRoot/FindRoot.iml" filepath="$PROJECT_DIR$/Methods/FindRoot/FindRoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/MaclaurinSeries/MaclaurinSeries.iml" filepath="$PROJECT_DIR$/Methods/MaclaurinSeries/MaclaurinSeries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/MaclaurinSeriesCosx/MaclaurinSeriesCosx.iml" filepath="$PROJECT_DIR$/Methods/MaclaurinSeriesCosx/MaclaurinSeriesCosx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumericalMethods.iml" filepath="$PROJECT_DIR$/NumericalMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Parachutist_Problem/Parachutist_Problem.iml" filepath="$PROJECT_DIR$/Methods/Parachutist_Problem/Parachutist_Problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/TheBisectionMethods/TheBisectionMethods.iml" filepath="$PROJECT_DIR$/Methods/TheBisectionMethods/TheBisectionMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/TheFalsePosition/TheFalsePosition.iml" filepath="$PROJECT_DIR$/Methods/TheFalsePosition/TheFalsePosition.iml" />
     </modules>
   </component>
 </project>
